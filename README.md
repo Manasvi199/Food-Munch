@@ -11,7 +11,7 @@ Food Munch is a web application designed to provide users with a seamless experi
 - [License](#license)
 
 ## Demo
-Check out the live demo of the Food Munch app [here](https://your-demo-link.com).
+Check out the live demo of the Food Munch app [here](https://manasvi199.github.io/Food-Munch/).
 
 ## Features
 - **Responsive Design**: Mobile-first design that adapts to all screen sizes.
